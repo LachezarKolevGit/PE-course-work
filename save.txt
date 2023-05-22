@@ -1,0 +1,4 @@
+Id of route is :1
+The route is traversed :0 times
+Needed fuel for route is :1
+Length is :2
