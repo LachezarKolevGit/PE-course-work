@@ -1,2 +1,0 @@
-D:\codeJourney\TaxiProjectC++\Taxis\Debug\Taxis.exe
-D:\codeJourney\TaxiProjectC++\Taxis\Debug\Taxis.pdb
